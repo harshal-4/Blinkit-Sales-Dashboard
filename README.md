@@ -25,16 +25,16 @@ The goal is to help stakeholders in the FMCG space answer critical business ques
 
 ---
 
- 📊 Dashboard Preview
+  Dashboard Preview
 
 ![Dashboard Preview](Dashboard_1.png)
 
 🔗 **Live Dashboard on Tableau Public:**  
-[👉 Click here to view]([https://public.tableau.com/app/profile/yourname/viz/FMCGRetailSalesDashboard](https://public.tableau.com/views/Blinkit_data_analysis_public/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+[👉 Click here to view](https://public.tableau.com/views/Blinkit_data_analysis_public/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
- 📈 Key KPIs Tracked
+  Key KPIs Tracked
 
 - Total Sales (₹)
 - Average Sales per Item
@@ -43,7 +43,7 @@ The goal is to help stakeholders in the FMCG space answer critical business ques
 
 ---
 
-## 🔍 Key Segmentations Visualized
+##  Key Segmentations Visualized
 
 - Item Type
 - Item Fat Content
