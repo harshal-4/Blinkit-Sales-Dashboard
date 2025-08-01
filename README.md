@@ -72,3 +72,8 @@ See [`sql/full_sql_workflow.sql`](Blinkit_full_sql_workflow.sql) for:
 - Embed Tableau dashboard in a personal portfolio website
 - Connect live data via Google Sheets + Tableau for real-time updates
 
+## Author
+
+**Harshal Patil**  
+📧 patilharshal4705@gmail.com   
+🔗 [Tableau Public]([https://public.tableau.com/app/profile/yourname](https://public.tableau.com/app/profile/harshal.patil5772/vizzes))
